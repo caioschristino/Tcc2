@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Aspose.Diagram</id>
+    <version>3.5.0</version>
+    <title>Aspose.Diagram for .NET</title>
+    <authors>Aspose</authors>
+    <owners>Aspose</owners>
+    <licenseUrl>http://www.aspose.com/corporate/purchase/end-user-license-agreement.aspx</licenseUrl>
+    <projectUrl>http://www.aspose.com/categories/.net-components/aspose.diagram-for-.net/default.aspx</projectUrl>
+    <iconUrl>http://www.aspose.com/images/products/dotnet/Aspose.Diagram_128x128.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Aspose.Diagram is a class library for working with Microsoft Visio files. It allows developers to create new diagrams and work with VSD, VSDX, VSS, VST, VSX, VTX, VDW and VDX files on ASP.NET web applications, web services and Windows applications. It allows you to open files and manipulate the elements of the diagram, from lines and fills, to more complex elements, and then export to VDX, VSX, VTX, XPS, HTML, SVG, SWF, XAML, image or PDF formats.</description>
+    <summary>Aspose.Diagram is a class library for working with Microsoft Visio files.</summary>
+    <releaseNotes>This release introduces the features, enhancements,task and bug fixes as detailed below:
+
+Bugs
+DIAGRAM-33421 Unable to set line/fill data of the shapes
+DIAGRAM-33373 Garbage text is generated when tried to extract embedded text file</releaseNotes>
+    <copyright>© Aspose 2002-2012. All Rights Reserved.</copyright>
+    <tags>Visio Diagram Aspose.Diagram VSD VSS VST VSX VTX VDW VDX</tags>
+  </metadata>
+</package>

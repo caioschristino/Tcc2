@@ -1,0 +1,9 @@
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\TCC2.csprojResolveAssemblyReference.cache
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\CircularControlAngle.baml
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\CircularControlAngle.g.cs
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\MainWindow.g.cs
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\App.g.cs
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\TCC2_PadraoCorpo_v2_MarkupCompile.cache
+C:\Users\caio\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\obj\Debug\TCC2_PadraoCorpo_v2_MarkupCompile.lref
+C:\Users\CaioSanchez\SkyDrive\FEI\8 Ciclo\TCC2.AnalisePostural\TCC2_PadraoCorpo_v2\bin\Debug\TCC2_PadraoCorpo_v2.exe.config
